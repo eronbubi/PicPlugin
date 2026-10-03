@@ -22,3 +22,7 @@ Output goes to `pictures/<slug>.svg` and `pictures/<slug>.png` in the current pr
 ## Renderer
 
     node plugins/picture/bin/render.js <in.svg> [out.png] [--scale N] [--transparent]
+
+## License
+
+Copyright (c) 2026 Eron. Licensed under [CC BY-ND 4.0](LICENSE): you may use and share this plugin, with credit, but you may not modify it or distribute modified versions.
