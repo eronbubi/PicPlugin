@@ -1,0 +1,8 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "picture",
+  "version": "1.0.0",
+  "description": "/picture <description> lets Claude draw an image itself (SVG) and render it to PNG. No image API, no key.",
+  "author": { "name": "girgi" },
+  "keywords": ["image", "picture", "svg", "png", "drawing"]
+}

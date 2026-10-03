@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "picture-local",
+  "description": "Local marketplace hosting the picture plugin",
+  "owner": { "name": "girgi" },
+  "plugins": [
+    {
+      "name": "picture",
+      "description": "/picture <description> lets Claude draw an image itself (SVG) and render it to PNG. No image API, no key.",
+      "category": "productivity",
+      "author": { "name": "girgi" },
+      "source": "./plugins/picture"
+    }
+  ]
+}
